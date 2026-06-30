@@ -3,7 +3,7 @@
 **Business question:** If a buyer has around ₱15 million to spend on a property in Metro Manila, where should they buy, and what would they actually get for that budget (floor area, bedrooms, bathrooms)?
 
 ## Data
-- Source: [Philippine Real Estate dataset](https://www.kaggle.com/) — scraped from lamudi.com.ph (public domain, CC0)
+- Source: [Philippine Real Estate dataset](https://www.kaggle.com/datasets/arloblanco/philippine-real-estate) — scraped from lamudi.com.ph (public domain, CC0)
 - Scope: Filtered from the full national dataset down to Metro Manila listings only (12 of 17 Metro Manila cities/municipalities were present in the raw data — Caloocan, Malabon, Marikina, Navotas, and Pateros had no listings, which may reflect lower listing activity on this platform rather than the actual market)
 - Final working set: 1,042 Metro Manila listings, further filtered to a ₱13M–₱17M price band to match the business question
 
